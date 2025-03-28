@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "projet",
+    "Projects": [
+      {
+        "Path": "Gestion Intelligente d'un Centre Médical\\Gestion Intelligente d'un Centre Médical.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
