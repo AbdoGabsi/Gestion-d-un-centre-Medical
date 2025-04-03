@@ -35,10 +35,9 @@ namespace Gestion_Intelligente_d_un_Centre_Médical
 
             
             connection.Open();
-            //afficher les patient qui ont des factures à payé
-            string req1= @"SELECT DISTINCT patient.cin_patient,patient.nom,patient.prenom
-FROM patient AS patient,Paiement as Paiement,rendez_vous as rendez_vous,facture AS facture
-WHERE rendez_vous.numero_rendez_vous=Paiement.numero_rendez_vous AND Paiement.numero_facture=facture.numero_facture AND patient.cin_patient=rendez_vous.cin_patient AND facture.etat='impayé';";
+            //afficher touts les patient 
+            string req1= @"SELECT patient.cin_patient,patient.nom,patient.prenom
+FROM patient AS patient;";
 
 
             OleDbCommand cmd = new OleDbCommand(req1, connection);
@@ -75,9 +74,23 @@ WHERE rendez_vous.numero_rendez_vous=Paiement.numero_rendez_vous AND Paiement.nu
 
 
 
-                string req = @"SELECT patient.cin_patient,patient.photo AS photo,Count(facture.numero_facture) AS nbre_fact_impayé ,SUM(facture.montant) AS total
-FROM patient AS patient,Paiement as Paiement,rendez_vous as rendez_vous,facture AS facture
-WHERE rendez_vous.numero_rendez_vous=Paiement.numero_rendez_vous AND Paiement.numero_facture=facture.numero_facture AND patient.cin_patient=rendez_vous.cin_patient AND patient.cin_patient='" + vcin + "' AND facture.etat='impayé' GROUP BY patient.cin_patient;";
+                string req = @"SELECT 
+    patient.cin_patient, 
+    patient.photo, 
+    (SELECT COUNT(*) FROM facture AS f, Paiement AS pa, rendez_vous AS rv 
+     WHERE f.numero_facture = pa.numero_facture 
+     AND pa.numero_rendez_vous = rv.numero_rendez_vous 
+     AND rv.cin_patient = patient.cin_patient 
+     AND f.etat = 'impayé') AS nbre_fact_impayé, 
+
+    (SELECT SUM(f.montant) FROM facture AS f, Paiement AS pa, rendez_vous AS rv 
+     WHERE f.numero_facture = pa.numero_facture 
+     AND pa.numero_rendez_vous = rv.numero_rendez_vous 
+     AND rv.cin_patient = patient.cin_patient 
+     AND f.etat = 'impayé') AS total
+
+FROM patient
+WHERE patient.cin_patient ='" + vcin + "';";
 
                 
                 DataSet ds = new DataSet("table");
@@ -94,6 +107,17 @@ WHERE rendez_vous.numero_rendez_vous=Paiement.numero_rendez_vous AND Paiement.nu
 
                     nbr_fact.Text = "Nombre des factures =     " + ds.Tables[0].Rows[0][2].ToString();
                     total.Text = "Total restant =      " + ds.Tables[0].Rows[0][3].ToString();
+
+                    if (ds.Tables[0].Rows[0][2].ToString() == "0")
+                    {
+                        total.Hide();
+                        btn_payer.Hide();
+                    }
+                    else
+                    {
+                        total.Show();
+                        btn_payer.Show();
+                    }
 
                     object attachmentData = ds.Tables[0].Rows[0][1];
 
@@ -144,7 +168,7 @@ WHERE rendez_vous.numero_rendez_vous=Paiement.numero_rendez_vous AND Paiement.nu
             }
             else
             {
-                MessageBox.Show("Veuillez choisir une ligne");
+                MessageBox.Show("Veuillez selectionner un patient de la liste");
             }
             
             
@@ -158,6 +182,21 @@ WHERE rendez_vous.numero_rendez_vous=Paiement.numero_rendez_vous AND Paiement.nu
         private void groupBox1_Enter(object sender, EventArgs e)
         {
 
+        }
+
+        private void btn_rendez_Click(object sender, EventArgs e)
+        {
+            if (dataGridView1.SelectedRows.Count == 1)
+            {
+                this.Hide();
+                gestion_rendez_vous gestion_Rendez_Vous = new gestion_rendez_vous(dataGridView1.SelectedRows[0].Cells[0].Value.ToString());
+                gestion_Rendez_Vous.Show();
+            }
+            else
+            {
+                MessageBox.Show("Veuillez selectionner un patient de la liste");
+            }
+            
         }
     }
 }

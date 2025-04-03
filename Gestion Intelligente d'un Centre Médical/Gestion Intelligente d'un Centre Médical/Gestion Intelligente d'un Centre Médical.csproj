@@ -240,6 +240,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="secretaire\gestion_rendez_vous.resx">
+      <DependentUpon>gestion_rendez_vous.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="secretaire\paiement.resx">
       <DependentUpon>paiement.cs</DependentUpon>
     </EmbeddedResource>

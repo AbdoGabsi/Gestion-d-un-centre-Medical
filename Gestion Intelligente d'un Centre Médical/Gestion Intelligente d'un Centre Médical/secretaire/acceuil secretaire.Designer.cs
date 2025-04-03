@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(acceuil_secretaire));
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -43,9 +44,12 @@
             this.cin = new System.Windows.Forms.Label();
             this.nom = new System.Windows.Forms.Label();
             this.prenom = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.label1 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.photo)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // dataGridView1
@@ -57,12 +61,12 @@
             this.Column1,
             this.Column2,
             this.Column3});
-            this.dataGridView1.Location = new System.Drawing.Point(458, 9);
-            this.dataGridView1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.dataGridView1.Location = new System.Drawing.Point(611, 11);
+            this.dataGridView1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(322, 269);
+            this.dataGridView1.Size = new System.Drawing.Size(429, 331);
             this.dataGridView1.TabIndex = 0;
             this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             this.dataGridView1.SelectionChanged += new System.EventHandler(this.dataGridView1_SelectionChanged);
@@ -90,10 +94,10 @@
             // 
             // btn_payer
             // 
-            this.btn_payer.Location = new System.Drawing.Point(147, 80);
-            this.btn_payer.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btn_payer.Location = new System.Drawing.Point(196, 98);
+            this.btn_payer.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btn_payer.Name = "btn_payer";
-            this.btn_payer.Size = new System.Drawing.Size(103, 21);
+            this.btn_payer.Size = new System.Drawing.Size(137, 26);
             this.btn_payer.TabIndex = 1;
             this.btn_payer.Text = "payer les factures";
             this.btn_payer.UseVisualStyleBackColor = true;
@@ -102,20 +106,18 @@
             // nbr_fact
             // 
             this.nbr_fact.AutoSize = true;
-            this.nbr_fact.Location = new System.Drawing.Point(3, 21);
-            this.nbr_fact.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.nbr_fact.Location = new System.Drawing.Point(4, 26);
             this.nbr_fact.Name = "nbr_fact";
-            this.nbr_fact.Size = new System.Drawing.Size(114, 13);
+            this.nbr_fact.Size = new System.Drawing.Size(142, 16);
             this.nbr_fact.TabIndex = 2;
             this.nbr_fact.Text = "Nombre des factures =";
             // 
             // total
             // 
             this.total.AutoSize = true;
-            this.total.Location = new System.Drawing.Point(3, 48);
-            this.total.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.total.Location = new System.Drawing.Point(4, 59);
             this.total.Name = "total";
-            this.total.Size = new System.Drawing.Size(89, 13);
+            this.total.Size = new System.Drawing.Size(108, 16);
             this.total.TabIndex = 3;
             this.total.Text = "Total montants = ";
             // 
@@ -124,11 +126,11 @@
             this.groupBox1.Controls.Add(this.total);
             this.groupBox1.Controls.Add(this.nbr_fact);
             this.groupBox1.Controls.Add(this.btn_payer);
-            this.groupBox1.Location = new System.Drawing.Point(18, 168);
-            this.groupBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox1.Location = new System.Drawing.Point(24, 207);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.groupBox1.Size = new System.Drawing.Size(260, 110);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.groupBox1.Size = new System.Drawing.Size(347, 135);
             this.groupBox1.TabIndex = 4;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Factures à payer";
@@ -136,9 +138,10 @@
             // 
             // photo
             // 
-            this.photo.Location = new System.Drawing.Point(18, 25);
+            this.photo.Location = new System.Drawing.Point(24, 31);
+            this.photo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.photo.Name = "photo";
-            this.photo.Size = new System.Drawing.Size(135, 123);
+            this.photo.Size = new System.Drawing.Size(180, 151);
             this.photo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.photo.TabIndex = 5;
             this.photo.TabStop = false;
@@ -146,65 +149,87 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(44, 9);
+            this.label3.Location = new System.Drawing.Point(59, 11);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(85, 13);
+            this.label3.Size = new System.Drawing.Size(104, 16);
             this.label3.TabIndex = 6;
             this.label3.Text = "Photo de patient";
             // 
             // btn_dossier
             // 
-            this.btn_dossier.Location = new System.Drawing.Point(309, 234);
+            this.btn_dossier.Location = new System.Drawing.Point(412, 288);
+            this.btn_dossier.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btn_dossier.Name = "btn_dossier";
-            this.btn_dossier.Size = new System.Drawing.Size(97, 44);
+            this.btn_dossier.Size = new System.Drawing.Size(129, 54);
             this.btn_dossier.TabIndex = 7;
             this.btn_dossier.Text = "gerer le dossier adminstratif";
             this.btn_dossier.UseVisualStyleBackColor = true;
             // 
             // btn_rendez
             // 
-            this.btn_rendez.Location = new System.Drawing.Point(309, 168);
+            this.btn_rendez.Location = new System.Drawing.Point(412, 207);
+            this.btn_rendez.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btn_rendez.Name = "btn_rendez";
-            this.btn_rendez.Size = new System.Drawing.Size(97, 44);
+            this.btn_rendez.Size = new System.Drawing.Size(129, 54);
             this.btn_rendez.TabIndex = 8;
             this.btn_rendez.Text = "gerer les rendez vous";
             this.btn_rendez.UseVisualStyleBackColor = true;
+            this.btn_rendez.Click += new System.EventHandler(this.btn_rendez_Click);
             // 
             // cin
             // 
             this.cin.AutoSize = true;
-            this.cin.Location = new System.Drawing.Point(170, 32);
-            this.cin.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.cin.Location = new System.Drawing.Point(227, 39);
             this.cin.Name = "cin";
-            this.cin.Size = new System.Drawing.Size(31, 13);
+            this.cin.Size = new System.Drawing.Size(35, 16);
             this.cin.TabIndex = 10;
             this.cin.Text = "CIN :";
             // 
             // nom
             // 
             this.nom.AutoSize = true;
-            this.nom.Location = new System.Drawing.Point(170, 76);
-            this.nom.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.nom.Location = new System.Drawing.Point(227, 94);
             this.nom.Name = "nom";
-            this.nom.Size = new System.Drawing.Size(35, 13);
+            this.nom.Size = new System.Drawing.Size(42, 16);
             this.nom.TabIndex = 10;
             this.nom.Text = "Nom :";
             // 
             // prenom
             // 
             this.prenom.AutoSize = true;
-            this.prenom.Location = new System.Drawing.Point(170, 119);
-            this.prenom.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.prenom.Location = new System.Drawing.Point(227, 146);
             this.prenom.Name = "prenom";
-            this.prenom.Size = new System.Drawing.Size(49, 13);
+            this.prenom.Size = new System.Drawing.Size(60, 16);
             this.prenom.TabIndex = 10;
             this.prenom.Text = "Prenom :";
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(566, 12);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(39, 29);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.TabIndex = 11;
+            this.pictureBox1.TabStop = false;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(515, 25);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(36, 16);
+            this.label1.TabIndex = 12;
+            this.label1.Text = "Filter";
+            // 
             // acceuil_secretaire
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(795, 301);
+            this.ClientSize = new System.Drawing.Size(1060, 370);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.prenom);
             this.Controls.Add(this.nom);
             this.Controls.Add(this.cin);
@@ -214,7 +239,7 @@
             this.Controls.Add(this.photo);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.dataGridView1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "acceuil_secretaire";
             this.Text = "acceuil_secretaire";
             this.Load += new System.EventHandler(this.acceuil_secretaire_Load);
@@ -222,6 +247,7 @@
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.photo)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -244,5 +270,7 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Column1;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column2;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column3;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Label label1;
     }
 }
