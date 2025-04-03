@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\gabsi\\source\\repos\\Project frame\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|C:\\Users\\gabsi\\source\\repos\\Project frame\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\paiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|C:\\Users\\gabsi\\source\\repos\\Project frame\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\acceuil secretaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\acceuil secretaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|C:\\Users\\gabsi\\source\\repos\\Project frame\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\acceuil secretaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\acceuil secretaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|c:\\users\\gabsi\\source\\repos\\project frame\\gestion intelligente d\u0027un centre m\u00E9dical\\gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\paiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\paiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -11,24 +19,16 @@
       "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\paiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|c:\\users\\gabsi\\source\\repos\\project frame\\gestion intelligente d\u0027un centre m\u00E9dical\\gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\paiement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|C:\\Users\\gabsi\\source\\repos\\Project frame\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\paiement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\paiement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|C:\\Users\\gabsi\\source\\repos\\Project frame\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\acceuil secretaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\acceuil secretaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|c:\\users\\gabsi\\source\\repos\\project frame\\gestion intelligente d\u0027un centre m\u00E9dical\\gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\acceuil secretaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\acceuil secretaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|C:\\Users\\gabsi\\source\\repos\\Project frame\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\gestion intelligente d\u0027un centre m\u00E9dical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|C:\\Users\\gabsi\\source\\repos\\Project frame\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\recu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\recu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|C:\\Users\\gabsi\\source\\repos\\Project frame\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\recu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\recu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,94 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "paiement.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\gabsi\\source\\repos\\Project frame\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\paiement.Designer.cs",
-              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\paiement.Designer.cs",
-              "ToolTip": "C:\\Users\\gabsi\\source\\repos\\Project frame\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\paiement.Designer.cs",
-              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\paiement.Designer.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAEwGEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T11:18:55.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "acceuil secretaire.cs",
               "DocumentMoniker": "C:\\Users\\gabsi\\source\\repos\\Project frame\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\acceuil secretaire.cs",
               "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\acceuil secretaire.cs",
               "ToolTip": "C:\\Users\\gabsi\\source\\repos\\Project frame\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\acceuil secretaire.cs",
               "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\acceuil secretaire.cs",
-              "ViewState": "AgIAAIMAAAAAAAAAAAAgwHcAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAhwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T16:05:55.662Z",
+              "WhenOpened": "2025-03-30T10:06:09.399Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "paiement.cs [Design]",
               "DocumentMoniker": "C:\\Users\\gabsi\\source\\repos\\Project frame\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\paiement.cs",
               "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\paiement.cs",
               "ToolTip": "C:\\Users\\gabsi\\source\\repos\\Project frame\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\paiement.cs [Design]",
               "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\paiement.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T14:25:14.206Z",
+              "WhenOpened": "2025-03-28T14:20:34.966Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "paiement.cs",
-              "DocumentMoniker": "C:\\Users\\gabsi\\source\\repos\\Project frame\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\paiement.cs",
-              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\paiement.cs",
-              "ToolTip": "C:\\Users\\gabsi\\source\\repos\\Project frame\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\paiement.cs",
-              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\paiement.cs",
-              "ViewState": "AgIAAJEAAAAAAAAAAAApwKgAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "recu.cs",
+              "DocumentMoniker": "C:\\Users\\gabsi\\source\\repos\\Project frame\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\recu.cs",
+              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\recu.cs",
+              "ToolTip": "C:\\Users\\gabsi\\source\\repos\\Project frame\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\recu.cs",
+              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\recu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T15:53:13.454Z",
+              "WhenOpened": "2025-04-01T11:16:27.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "paiement.cs",
+              "DocumentMoniker": "C:\\Users\\gabsi\\source\\repos\\Project frame\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\paiement.cs",
+              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\paiement.cs",
+              "ToolTip": "C:\\Users\\gabsi\\source\\repos\\Project frame\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\paiement.cs",
+              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\paiement.cs",
+              "ViewState": "AgIAADQBAAAAAAAAAAAawEoBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T14:20:44.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "paiement.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gabsi\\source\\repos\\Project frame\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\paiement.Designer.cs",
+              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\paiement.Designer.cs",
+              "ToolTip": "C:\\Users\\gabsi\\source\\repos\\Project frame\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\paiement.Designer.cs",
+              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\paiement.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T06:32:27.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "acceuil secretaire.cs [Design]",
               "DocumentMoniker": "C:\\Users\\gabsi\\source\\repos\\Project frame\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\acceuil secretaire.cs",
               "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\acceuil secretaire.cs",
               "ToolTip": "C:\\Users\\gabsi\\source\\repos\\Project frame\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\acceuil secretaire.cs [Design]",
               "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\acceuil secretaire.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T14:24:34.26Z",
+              "WhenOpened": "2025-03-30T10:05:42.895Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabsi\\source\\repos\\Project frame\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\Program.cs",
-              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\Program.cs",
-              "ToolTip": "C:\\Users\\gabsi\\source\\repos\\Project frame\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\Program.cs",
-              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T16:09:02.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "recu.cs [Design]",
               "DocumentMoniker": "C:\\Users\\gabsi\\source\\repos\\Project frame\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\recu.cs",
               "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\recu.cs",
               "ToolTip": "C:\\Users\\gabsi\\source\\repos\\Project frame\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\recu.cs [Design]",
               "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\recu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T10:26:00.046Z"
+              "WhenOpened": "2025-04-01T10:46:28.917Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

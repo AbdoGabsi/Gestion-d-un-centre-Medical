@@ -1,3 +1,6 @@
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\Gestion Intelligente d'un Centre Médical.exe.config
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\Gestion Intelligente d'un Centre Médical.exe
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\Gestion Intelligente d'un Centre Médical.pdb
 C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\obj\x64\Debug\Gestion Intelligente d'un Centre Médical.csproj.AssemblyReference.cache
 C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\obj\x64\Debug\Gestion_Intelligente_d_un_Centre_Médical.acceuil_adminstrateur.resources
 C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\obj\x64\Debug\Gestion_Intelligente_d_un_Centre_Médical.acceuil_secretaire.resources
@@ -8,8 +11,64 @@ C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médi
 C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\obj\x64\Debug\Gestion_Intelligente_d_un_Centre_Médical.secretaire.recu.resources
 C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\obj\x64\Debug\Gestion Intelligente d'un Centre Médical.csproj.GenerateResource.cache
 C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\obj\x64\Debug\Gestion Intelligente d'un Centre Médical.csproj.CoreCompileInputs.cache
-C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\Gestion Intelligente d'un Centre Médical.exe.config
-C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\Gestion Intelligente d'un Centre Médical.exe
-C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\Gestion Intelligente d'un Centre Médical.pdb
 C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\obj\x64\Debug\Gestion Intelligente d'un Centre Médical.exe
 C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\obj\x64\Debug\Gestion Intelligente d'un Centre Médical.pdb
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\BouncyCastle.Cryptography.dll
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\itext.barcodes.dll
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\itext.bouncy-castle-connector.dll
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\itext.commons.dll
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\itext.forms.dll
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\itext.io.dll
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\itext.kernel.dll
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\itext.layout.dll
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\itext.pdfa.dll
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\itext.pdfua.dll
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\itext.sign.dll
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\itext.styledxmlparser.dll
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\itext.svg.dll
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\itextsharp.dll
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\Microsoft.Extensions.Options.dll
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\System.Buffers.dll
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\System.Memory.dll
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\System.ValueTuple.dll
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\BouncyCastle.Cryptography.xml
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\itext.barcodes.xml
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\itext.bouncy-castle-connector.xml
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\itext.commons.xml
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\itext.forms.xml
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\itext.io.xml
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\itext.kernel.xml
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\itext.layout.xml
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\itext.pdfa.xml
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\itext.pdfua.xml
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\itext.sign.xml
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\itext.styledxmlparser.xml
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\itext.svg.xml
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\itextsharp.xml
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\Microsoft.Extensions.Options.xml
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\System.Buffers.xml
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\System.Memory.xml
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\x64\Debug\System.ValueTuple.xml
+C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\obj\x64\Debug\Gestion .2791C7B4.Up2Date

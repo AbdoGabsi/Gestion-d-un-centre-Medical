@@ -93,7 +93,7 @@ WHERE rendez_vous.numero_rendez_vous=Paiement.numero_rendez_vous AND Paiement.nu
                     prenom.Text = "Prenom : " + vprenom;
 
                     nbr_fact.Text = "Nombre des factures =     " + ds.Tables[0].Rows[0][2].ToString();
-                    total.Text = "Total montant =      " + ds.Tables[0].Rows[0][3].ToString();
+                    total.Text = "Total restant =      " + ds.Tables[0].Rows[0][3].ToString();
 
                     object attachmentData = ds.Tables[0].Rows[0][1];
 
