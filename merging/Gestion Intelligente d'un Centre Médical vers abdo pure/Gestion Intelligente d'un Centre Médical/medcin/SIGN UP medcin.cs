@@ -10,10 +10,10 @@ using System.Windows.Forms;
 
 namespace Gestion_Intelligente_d_un_Centre_Médical
 {
-    public partial class SIGN_UP_Secretaire : Form
+    public partial class SIGN_UP_medcin : Form
     {
         
-        public SIGN_UP_Secretaire()
+        public SIGN_UP_medcin()
         {
             InitializeComponent();
         }

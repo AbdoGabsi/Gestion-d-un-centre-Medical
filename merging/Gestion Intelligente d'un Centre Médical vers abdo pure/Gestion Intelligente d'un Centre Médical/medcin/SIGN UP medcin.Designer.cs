@@ -1,6 +1,6 @@
 ﻿namespace Gestion_Intelligente_d_un_Centre_Médical
 {
-    partial class SIGN_UP_Secretaire
+    partial class SIGN_UP_medcin
     {
         /// <summary>
         /// Required designer variable.

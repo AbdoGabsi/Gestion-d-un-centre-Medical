@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Gestion_Intelligente_d_un_Centre_Médical.secretaire;
 
 namespace Gestion_Intelligente_d_un_Centre_Médical
 {
@@ -39,7 +40,7 @@ namespace Gestion_Intelligente_d_un_Centre_Médical
         private void button3_Click(object sender, EventArgs e)
         {
             this.Hide();
-            sec form = new Login_Medcin();
+            Login_Secretaire form = new Login_Secretaire();
             form.Show();
         }
     }

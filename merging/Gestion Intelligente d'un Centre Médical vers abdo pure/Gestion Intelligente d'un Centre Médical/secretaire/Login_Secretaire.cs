@@ -16,5 +16,7 @@ namespace Gestion_Intelligente_d_un_Centre_Médical.secretaire
         {
             InitializeComponent();
         }
+
+
     }
 }

@@ -1,43 +1,94 @@
-C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\Debug\Gestion Intelligente d'un Centre Médical.exe.config
-C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\Debug\Gestion Intelligente d'un Centre Médical.exe
-C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\bin\Debug\Gestion Intelligente d'un Centre Médical.pdb
-C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion Intelligente d'un Centre Médical.csproj.AssemblyReference.cache
-C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.Properties.Resources.resources
-C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion Intelligente d'un Centre Médical.csproj.GenerateResource.cache
-C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion Intelligente d'un Centre Médical.csproj.CoreCompileInputs.cache
-C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion Intelligente d'un Centre Médical.exe
-C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion Intelligente d'un Centre Médical.pdb
-C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.load_page.resources
-C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.login_page.resources
-C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.acceuil_adminstrateur.resources
-C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.acceuil_secretaire.resources
-C:\Users\gabsi\source\repos\Project frame\Gestion Intelligente d'un Centre Médical\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.secretaire.paiement.resources
-C:\Users\gabsi\source\repos\Project frame\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion Intelligente d'un Centre Médical.csproj.AssemblyReference.cache
-C:\Users\gabsi\source\repos\Project frame\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Interop.AcroPDFLib.dll
-C:\Users\gabsi\source\repos\Project frame\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\AxInterop.AcroPDFLib.dll
-C:\Users\gabsi\source\repos\Project frame\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion Intelligente d'un Centre Médical.csproj.ResolveComReference.cache
-C:\Users\gabsi\source\repos\Project frame\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.CRUD_Admin.resources
-C:\Users\gabsi\source\repos\Project frame\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.crudAdminModif.resources
-C:\Users\gabsi\source\repos\Project frame\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.crudAdminSupprimer.resources
-C:\Users\gabsi\source\repos\Project frame\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.Dashboard_Medcin.resources
-C:\Users\gabsi\source\repos\Project frame\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.EmploiMedcin.resources
-C:\Users\gabsi\source\repos\Project frame\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.Login_Medcin.resources
-C:\Users\gabsi\source\repos\Project frame\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.login_page.resources
-C:\Users\gabsi\source\repos\Project frame\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.Gerer_rendez_vous.resources
-C:\Users\gabsi\source\repos\Project frame\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.Gestion_de_disponibilité.resources
-C:\Users\gabsi\source\repos\Project frame\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.Gestion_Dossier.resources
-C:\Users\gabsi\source\repos\Project frame\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.Login_Admin.resources
-C:\Users\gabsi\source\repos\Project frame\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.mise_en_forme_admin.resources
-C:\Users\gabsi\source\repos\Project frame\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.mise_en_forme_medcin.resources
-C:\Users\gabsi\source\repos\Project frame\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.acceuil_secretaire.resources
-C:\Users\gabsi\source\repos\Project frame\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.load_page.resources
-C:\Users\gabsi\source\repos\Project frame\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.Properties.Resources.resources
-C:\Users\gabsi\source\repos\Project frame\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.secretaire.gestion_dossier_adminstratif.resources
-C:\Users\gabsi\source\repos\Project frame\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.secretaire.gestion_rendez_vous.resources
-C:\Users\gabsi\source\repos\Project frame\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.secretaire.Login_Secretaire.resources
-C:\Users\gabsi\source\repos\Project frame\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.secretaire.paiement.resources
-C:\Users\gabsi\source\repos\Project frame\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.secretaire.recu.resources
-C:\Users\gabsi\source\repos\Project frame\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.SIGN_UP_Secretaire.resources
-C:\Users\gabsi\source\repos\Project frame\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.secretaire.SIGN_UP_secretaire.resources
-C:\Users\gabsi\source\repos\Project frame\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion Intelligente d'un Centre Médical.csproj.GenerateResource.cache
-C:\Users\gabsi\source\repos\Project frame\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion Intelligente d'un Centre Médical.csproj.CoreCompileInputs.cache
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Gestion Intelligente d'un Centre Médical.exe.config
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Gestion Intelligente d'un Centre Médical.exe
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Gestion Intelligente d'un Centre Médical.pdb
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\BouncyCastle.Cryptography.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\itext.barcodes.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\itext.bouncy-castle-connector.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\itext.commons.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\itext.forms.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\itext.io.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\itext.kernel.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\itext.layout.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\itext.pdfa.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\itext.pdfua.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\itext.sign.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\itext.styledxmlparser.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\itext.svg.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\itextsharp.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Microsoft.Extensions.Options.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Newtonsoft.Json.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\System.Buffers.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\System.Memory.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\System.Numerics.Vectors.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\System.ValueTuple.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\BouncyCastle.Cryptography.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\itext.barcodes.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\itext.bouncy-castle-connector.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\itext.commons.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\itext.forms.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\itext.io.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\itext.kernel.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\itext.layout.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\itext.pdfa.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\itext.pdfua.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\itext.sign.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\itext.styledxmlparser.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\itext.svg.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\itextsharp.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Microsoft.Extensions.Options.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Newtonsoft.Json.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\System.Buffers.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\System.Memory.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\System.Numerics.Vectors.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Interop.AcroPDFLib.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion Intelligente d'un Centre Médical.csproj.AssemblyReference.cache
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Interop.AcroPDFLib.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion Intelligente d'un Centre Médical.csproj.ResolveComReference.cache
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.CRUD_Admin.resources
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.crudAdminModif.resources
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.crudAdminSupprimer.resources
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.Dashboard_Medcin.resources
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.EmploiMedcin.resources
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.Login_Medcin.resources
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.login_page.resources
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.Gerer_rendez_vous.resources
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.Gestion_de_disponibilité.resources
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.Gestion_Dossier.resources
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.Login_Admin.resources
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.mise_en_forme_admin.resources
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.mise_en_forme_medcin.resources
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.acceuil_secretaire.resources
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.load_page.resources
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.Properties.Resources.resources
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.secretaire.gestion_dossier_adminstratif.resources
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.secretaire.gestion_rendez_vous.resources
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.secretaire.Login_Secretaire.resources
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.secretaire.paiement.resources
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.secretaire.recu.resources
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.SIGN_UP_medcin.resources
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.secretaire.SIGN_UP_secretaire.resources
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion Intelligente d'un Centre Médical.csproj.GenerateResource.cache
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion Intelligente d'un Centre Médical.csproj.CoreCompileInputs.cache
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion .2791C7B4.Up2Date
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion Intelligente d'un Centre Médical.exe
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion Intelligente d'un Centre Médical.pdb

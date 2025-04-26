@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Projet_C#\Projet_C#\bin\Debug\Projet_C#.exe.config
+C:\Users\User\Desktop\Projet_C#\Projet_C#\bin\Debug\Projet_C#.exe
+C:\Users\User\Desktop\Projet_C#\Projet_C#\bin\Debug\Projet_C#.pdb
+C:\Users\User\Desktop\Projet_C#\Projet_C#\obj\Debug\Projet_C#.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projet_C#\Projet_C#\obj\Debug\Projet_C_.Properties.Resources.resources
+C:\Users\User\Desktop\Projet_C#\Projet_C#\obj\Debug\Projet_C#.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Projet_C#\Projet_C#\obj\Debug\Projet_C#.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projet_C#\Projet_C#\obj\Debug\Projet_C#.exe
+C:\Users\User\Desktop\Projet_C#\Projet_C#\obj\Debug\Projet_C#.pdb
+C:\Users\User\Desktop\Projet_C#\Projet_C#\obj\Debug\Projet_C_.Login_Admin.resources
+C:\Users\User\Desktop\Projet_C#\Projet_C#\obj\Debug\Projet_C_.CRUD_Admin.resources
