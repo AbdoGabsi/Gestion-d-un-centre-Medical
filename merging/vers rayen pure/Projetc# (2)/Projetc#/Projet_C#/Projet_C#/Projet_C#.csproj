@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8892350B-112D-4EA4-8888-12CBC4FF010A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Projet_C_</RootNamespace>
+    <AssemblyName>Projet_C#</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="crudAdminModif.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="crudAdminModif.Designer.cs">
+      <DependentUpon>crudAdminModif.cs</DependentUpon>
+    </Compile>
+    <Compile Include="crudAdminSupprimer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="crudAdminSupprimer.Designer.cs">
+      <DependentUpon>crudAdminSupprimer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard_Medcin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard_Medcin.Designer.cs">
+      <DependentUpon>Dashboard_Medcin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmploiMedcin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmploiMedcin.Designer.cs">
+      <DependentUpon>EmploiMedcin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPrincipale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrincipale.Designer.cs">
+      <DependentUpon>FormPrincipale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gerer_rendez-vous.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gerer_rendez-vous.Designer.cs">
+      <DependentUpon>Gerer_rendez-vous.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion de disponibilité.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion de disponibilité.Designer.cs">
+      <DependentUpon>Gestion de disponibilité.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion_Dossier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion_Dossier.Designer.cs">
+      <DependentUpon>Gestion_Dossier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login_Admin.Designer.cs">
+      <DependentUpon>Login_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CRUD_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CRUD_Admin.Designer.cs">
+      <DependentUpon>CRUD_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mise_en_forme_admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mise_en_forme_admin.Designer.cs">
+      <DependentUpon>mise_en_forme_admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mise_en_forme_medcin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mise_en_forme_medcin.Designer.cs">
+      <DependentUpon>mise_en_forme_medcin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SIGN UP medcin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SIGN UP medcin.Designer.cs">
+      <DependentUpon>SIGN UP medcin.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="crudAdminModif.resx">
+      <DependentUpon>crudAdminModif.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crudAdminSupprimer.resx">
+      <DependentUpon>crudAdminSupprimer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard_Medcin.resx">
+      <DependentUpon>Dashboard_Medcin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmploiMedcin.resx">
+      <DependentUpon>EmploiMedcin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPrincipale.resx">
+      <DependentUpon>FormPrincipale.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gerer_rendez-vous.resx">
+      <DependentUpon>Gerer_rendez-vous.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion de disponibilité.resx">
+      <DependentUpon>Gestion de disponibilité.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion_Dossier.resx">
+      <DependentUpon>Gestion_Dossier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login_Admin.resx">
+      <DependentUpon>Login_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CRUD_Admin.resx">
+      <DependentUpon>CRUD_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mise_en_forme_admin.resx">
+      <DependentUpon>mise_en_forme_admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mise_en_forme_medcin.resx">
+      <DependentUpon>mise_en_forme_medcin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="SIGN UP medcin.resx">
+      <DependentUpon>SIGN UP medcin.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
