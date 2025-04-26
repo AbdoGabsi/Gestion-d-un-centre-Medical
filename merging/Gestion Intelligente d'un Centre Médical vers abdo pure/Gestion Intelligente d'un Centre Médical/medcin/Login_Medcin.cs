@@ -70,7 +70,7 @@ namespace Gestion_Intelligente_d_un_Centre_Médical
         private void label2_Click(object sender, EventArgs e)
         {
             this.Hide();
-            SIGN_UP_medcin form = new SIGN_UP_medcin();
+            SIGN_UP_Secretaire form = new SIGN_UP_medcin();
             form.Show();
         }
     }

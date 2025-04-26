@@ -7,6 +7,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Gestion_Intelligente_d_un_Centre_Médical.secretaire;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace Gestion_Intelligente_d_un_Centre_Médical
 {
@@ -25,7 +26,7 @@ namespace Gestion_Intelligente_d_un_Centre_Médical
 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new acceuil_secretaire());
+            Application.Run(new load_page());
         }
     }
     public class update

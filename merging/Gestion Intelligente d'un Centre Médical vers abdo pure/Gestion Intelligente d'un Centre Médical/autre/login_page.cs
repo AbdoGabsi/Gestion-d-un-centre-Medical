@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Gestion_Intelligente_d_un_Centre_Médical
 {
-    public partial class FormPrincipale: Form
+    public partial class login_page: Form
     {
-        public FormPrincipale()
+        public login_page()
         {
             InitializeComponent();
         }
@@ -34,6 +34,13 @@ namespace Gestion_Intelligente_d_un_Centre_Médical
         private void FormPrincipale_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            sec form = new Login_Medcin();
+            form.Show();
         }
     }
 }

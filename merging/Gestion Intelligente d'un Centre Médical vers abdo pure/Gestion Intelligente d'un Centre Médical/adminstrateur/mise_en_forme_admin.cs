@@ -125,7 +125,7 @@ namespace Gestion_Intelligente_d_un_Centre_Médical
         private void button6_Click(object sender, EventArgs e)
         {
             this.Hide();
-            FormPrincipale form = new FormPrincipale();
+            login_page form = new login_page();
             form.Show();
 
         }

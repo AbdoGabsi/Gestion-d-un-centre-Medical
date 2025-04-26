@@ -170,83 +170,83 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="crudAdminModif.cs">
+    <Compile Include="adminstrateur\CRUD_Admin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="crudAdminModif.Designer.cs">
-      <DependentUpon>crudAdminModif.cs</DependentUpon>
-    </Compile>
-    <Compile Include="crudAdminSupprimer.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="crudAdminSupprimer.Designer.cs">
-      <DependentUpon>crudAdminSupprimer.cs</DependentUpon>
-    </Compile>
-    <Compile Include="CRUD_Admin.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="CRUD_Admin.Designer.cs">
+    <Compile Include="adminstrateur\CRUD_Admin.Designer.cs">
       <DependentUpon>CRUD_Admin.cs</DependentUpon>
     </Compile>
-    <Compile Include="Dashboard_Medcin.cs">
+    <Compile Include="adminstrateur\crudAdminModif.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Dashboard_Medcin.Designer.cs">
+    <Compile Include="adminstrateur\crudAdminModif.Designer.cs">
+      <DependentUpon>crudAdminModif.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminstrateur\crudAdminSupprimer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminstrateur\crudAdminSupprimer.Designer.cs">
+      <DependentUpon>crudAdminSupprimer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="medcin\Dashboard_Medcin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="medcin\Dashboard_Medcin.Designer.cs">
       <DependentUpon>Dashboard_Medcin.cs</DependentUpon>
     </Compile>
     <Compile Include="DataBase.cs" />
-    <Compile Include="EmploiMedcin.cs">
+    <Compile Include="medcin\EmploiMedcin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="EmploiMedcin.Designer.cs">
+    <Compile Include="medcin\EmploiMedcin.Designer.cs">
       <DependentUpon>EmploiMedcin.cs</DependentUpon>
     </Compile>
-    <Compile Include="Login_Medcin.cs">
+    <Compile Include="medcin\Login_Medcin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Login_Medcin.Designer.cs">
+    <Compile Include="medcin\Login_Medcin.Designer.cs">
       <DependentUpon>Login_Medcin.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormPrincipale.cs">
+    <Compile Include="autre\login_page.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormPrincipale.Designer.cs">
-      <DependentUpon>FormPrincipale.cs</DependentUpon>
+    <Compile Include="autre\login_page.Designer.cs">
+      <DependentUpon>login_page.cs</DependentUpon>
     </Compile>
-    <Compile Include="Gerer_rendez-vous.cs">
+    <Compile Include="autre\Gerer_rendez-vous.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Gerer_rendez-vous.Designer.cs">
+    <Compile Include="autre\Gerer_rendez-vous.Designer.cs">
       <DependentUpon>Gerer_rendez-vous.cs</DependentUpon>
     </Compile>
-    <Compile Include="Gestion de disponibilité.cs">
+    <Compile Include="autre\Gestion de disponibilité.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Gestion de disponibilité.Designer.cs">
+    <Compile Include="autre\Gestion de disponibilité.Designer.cs">
       <DependentUpon>Gestion de disponibilité.cs</DependentUpon>
     </Compile>
-    <Compile Include="Gestion_Dossier.cs">
+    <Compile Include="autre\Gestion_Dossier.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Gestion_Dossier.Designer.cs">
+    <Compile Include="autre\Gestion_Dossier.Designer.cs">
       <DependentUpon>Gestion_Dossier.cs</DependentUpon>
     </Compile>
-    <Compile Include="Login_Admin.cs">
+    <Compile Include="adminstrateur\Login_Admin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Login_Admin.Designer.cs">
+    <Compile Include="adminstrateur\Login_Admin.Designer.cs">
       <DependentUpon>Login_Admin.cs</DependentUpon>
     </Compile>
-    <Compile Include="mise_en_forme_admin.cs">
+    <Compile Include="adminstrateur\mise_en_forme_admin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="mise_en_forme_admin.Designer.cs">
+    <Compile Include="adminstrateur\mise_en_forme_admin.Designer.cs">
       <DependentUpon>mise_en_forme_admin.cs</DependentUpon>
     </Compile>
-    <Compile Include="mise_en_forme_medcin.cs">
+    <Compile Include="medcin\mise_en_forme_medcin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="mise_en_forme_medcin.Designer.cs">
+    <Compile Include="medcin\mise_en_forme_medcin.Designer.cs">
       <DependentUpon>mise_en_forme_medcin.cs</DependentUpon>
     </Compile>
     <Compile Include="secretaire\acceuil secretaire.cs">
@@ -255,11 +255,11 @@
     <Compile Include="secretaire\acceuil secretaire.Designer.cs">
       <DependentUpon>acceuil secretaire.cs</DependentUpon>
     </Compile>
-    <Compile Include="load page.cs">
+    <Compile Include="autre\load_page.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="load page.Designer.cs">
-      <DependentUpon>load page.cs</DependentUpon>
+    <Compile Include="autre\load_page.Designer.cs">
+      <DependentUpon>load_page.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -275,6 +275,12 @@
     <Compile Include="secretaire\gestion_rendez_vous.Designer.cs">
       <DependentUpon>gestion_rendez_vous.cs</DependentUpon>
     </Compile>
+    <Compile Include="secretaire\Login_Secretaire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="secretaire\Login_Secretaire.Designer.cs">
+      <DependentUpon>Login_Secretaire.cs</DependentUpon>
+    </Compile>
     <Compile Include="secretaire\paiement.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -287,56 +293,62 @@
     <Compile Include="secretaire\recu.Designer.cs">
       <DependentUpon>recu.cs</DependentUpon>
     </Compile>
-    <Compile Include="SIGN UP medcin.cs">
+    <Compile Include="medcin\SIGN UP medcin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="SIGN UP medcin.Designer.cs">
+    <Compile Include="medcin\SIGN UP medcin.Designer.cs">
       <DependentUpon>SIGN UP medcin.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="crudAdminModif.resx">
-      <DependentUpon>crudAdminModif.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="crudAdminSupprimer.resx">
-      <DependentUpon>crudAdminSupprimer.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="CRUD_Admin.resx">
+    <Compile Include="secretaire\SIGN UP secretaire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="secretaire\SIGN UP secretaire.Designer.cs">
+      <DependentUpon>SIGN UP secretaire.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="adminstrateur\CRUD_Admin.resx">
       <DependentUpon>CRUD_Admin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Dashboard_Medcin.resx">
+    <EmbeddedResource Include="adminstrateur\crudAdminModif.resx">
+      <DependentUpon>crudAdminModif.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminstrateur\crudAdminSupprimer.resx">
+      <DependentUpon>crudAdminSupprimer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="medcin\Dashboard_Medcin.resx">
       <DependentUpon>Dashboard_Medcin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="EmploiMedcin.resx">
+    <EmbeddedResource Include="medcin\EmploiMedcin.resx">
       <DependentUpon>EmploiMedcin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Login_Medcin.resx">
+    <EmbeddedResource Include="medcin\Login_Medcin.resx">
       <DependentUpon>Login_Medcin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormPrincipale.resx">
-      <DependentUpon>FormPrincipale.cs</DependentUpon>
+    <EmbeddedResource Include="autre\login_page.resx">
+      <DependentUpon>login_page.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Gerer_rendez-vous.resx">
+    <EmbeddedResource Include="autre\Gerer_rendez-vous.resx">
       <DependentUpon>Gerer_rendez-vous.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Gestion de disponibilité.resx">
+    <EmbeddedResource Include="autre\Gestion de disponibilité.resx">
       <DependentUpon>Gestion de disponibilité.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Gestion_Dossier.resx">
+    <EmbeddedResource Include="autre\Gestion_Dossier.resx">
       <DependentUpon>Gestion_Dossier.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Login_Admin.resx">
+    <EmbeddedResource Include="adminstrateur\Login_Admin.resx">
       <DependentUpon>Login_Admin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="mise_en_forme_admin.resx">
+    <EmbeddedResource Include="adminstrateur\mise_en_forme_admin.resx">
       <DependentUpon>mise_en_forme_admin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="mise_en_forme_medcin.resx">
+    <EmbeddedResource Include="medcin\mise_en_forme_medcin.resx">
       <DependentUpon>mise_en_forme_medcin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="secretaire\acceuil secretaire.resx">
       <DependentUpon>acceuil secretaire.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="load page.resx">
-      <DependentUpon>load page.cs</DependentUpon>
+    <EmbeddedResource Include="autre\load_page.resx">
+      <DependentUpon>load_page.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -353,14 +365,20 @@
     <EmbeddedResource Include="secretaire\gestion_rendez_vous.resx">
       <DependentUpon>gestion_rendez_vous.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="secretaire\Login_Secretaire.resx">
+      <DependentUpon>Login_Secretaire.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="secretaire\paiement.resx">
       <DependentUpon>paiement.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="secretaire\recu.resx">
       <DependentUpon>recu.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="SIGN UP medcin.resx">
+    <EmbeddedResource Include="medcin\SIGN UP medcin.resx">
       <DependentUpon>SIGN UP medcin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="secretaire\SIGN UP secretaire.resx">
+      <DependentUpon>SIGN UP secretaire.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -407,7 +425,9 @@
       <Isolated>False</Isolated>
     </COMReference>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="patient\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="..\packages\System.ValueTuple.4.6.1\build\net471\System.ValueTuple.targets" Condition="Exists('..\packages\System.ValueTuple.4.6.1\build\net471\System.ValueTuple.targets')" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
