@@ -76,6 +76,7 @@
             this.label2.Size = new System.Drawing.Size(173, 23);
             this.label2.TabIndex = 9;
             this.label2.Text = "Créer un compte";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // panel3
             // 
@@ -163,6 +164,7 @@
             this.button1.TabIndex = 4;
             this.button1.Text = "Connecter";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
             // pictureBox1
             // 

@@ -3,20 +3,116 @@
   "WorkspaceRootPath": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|d:\\git repo\\frame-proj\\merging\\gestion intelligente d\u0027un centre m\u00E9dical vers abdo pure\\gestion intelligente d\u0027un centre m\u00E9dical\\patient\\consulter_dossier_patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\patient\\consulter_dossier_patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|d:\\git repo\\frame-proj\\merging\\gestion intelligente d\u0027un centre m\u00E9dical vers abdo pure\\gestion intelligente d\u0027un centre m\u00E9dical\\patient\\consulter_dossier_patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\patient\\consulter_dossier_patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|d:\\git repo\\frame-proj\\merging\\gestion intelligente d\u0027un centre m\u00E9dical vers abdo pure\\gestion intelligente d\u0027un centre m\u00E9dical\\patient\\consulter_dossier_patient.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\patient\\consulter_dossier_patient.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\gestion intelligente d\u0027un centre m\u00E9dical\\medcin\\login_medcin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\medcin\\login_medcin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|d:\\git repo\\frame-proj\\merging\\gestion intelligente d\u0027un centre m\u00E9dical vers abdo pure\\gestion intelligente d\u0027un centre m\u00E9dical\\medcin\\gerer_rendez-vous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\medcin\\gerer_rendez-vous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|d:\\git repo\\frame-proj\\merging\\gestion intelligente d\u0027un centre m\u00E9dical vers abdo pure\\gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\gestion_dossier_adminstratif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\gestion_dossier_adminstratif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|d:\\git repo\\frame-proj\\merging\\gestion intelligente d\u0027un centre m\u00E9dical vers abdo pure\\gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\acceuil secretaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\acceuil secretaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|d:\\git repo\\frame-proj\\merging\\gestion intelligente d\u0027un centre m\u00E9dical vers abdo pure\\gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\gestion_dossier_adminstratif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\gestion_dossier_adminstratif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|d:\\git repo\\frame-proj\\merging\\gestion intelligente d\u0027un centre m\u00E9dical vers abdo pure\\gestion intelligente d\u0027un centre m\u00E9dical\\adminstrateur\\gestion de disponibilit\u00E9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\adminstrateur\\gestion de disponibilit\u00E9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|d:\\git repo\\frame-proj\\merging\\gestion intelligente d\u0027un centre m\u00E9dical vers abdo pure\\gestion intelligente d\u0027un centre m\u00E9dical\\adminstrateur\\crudadminmodif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\adminstrateur\\crudadminmodif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|d:\\git repo\\frame-proj\\merging\\gestion intelligente d\u0027un centre m\u00E9dical vers abdo pure\\gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\login_secretaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\login_secretaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|d:\\git repo\\frame-proj\\merging\\gestion intelligente d\u0027un centre m\u00E9dical vers abdo pure\\gestion intelligente d\u0027un centre m\u00E9dical\\medcin\\login_medcin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|d:\\git repo\\frame-proj\\merging\\gestion intelligente d\u0027un centre m\u00E9dical vers abdo pure\\gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\sign up secretaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\sign up secretaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|d:\\git repo\\frame-proj\\merging\\gestion intelligente d\u0027un centre m\u00E9dical vers abdo pure\\gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\sign up secretaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\sign up secretaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\login_secretaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\login_secretaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|d:\\git repo\\frame-proj\\merging\\gestion intelligente d\u0027un centre m\u00E9dical vers abdo pure\\gestion intelligente d\u0027un centre m\u00E9dical\\medcin\\sign up medcin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\medcin\\sign up medcin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|d:\\git repo\\frame-proj\\merging\\gestion intelligente d\u0027un centre m\u00E9dical vers abdo pure\\gestion intelligente d\u0027un centre m\u00E9dical\\medcin\\sign up medcin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\medcin\\sign up medcin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|d:\\git repo\\frame-proj\\merging\\gestion intelligente d\u0027un centre m\u00E9dical vers abdo pure\\gestion intelligente d\u0027un centre m\u00E9dical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|d:\\git repo\\frame-proj\\merging\\gestion intelligente d\u0027un centre m\u00E9dical vers abdo pure\\gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\mise_en_forme_secretaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\mise_en_forme_secretaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|d:\\git repo\\frame-proj\\merging\\gestion intelligente d\u0027un centre m\u00E9dical vers abdo pure\\gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\mise_en_forme_secretaire.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\mise_en_forme_secretaire.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|d:\\git repo\\frame-proj\\merging\\gestion intelligente d\u0027un centre m\u00E9dical vers abdo pure\\gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\mise_en_forme_secretaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\mise_en_forme_secretaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\gestion intelligente d\u0027un centre m\u00E9dical\\medcin\\login_medcin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\medcin\\login_medcin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|d:\\git repo\\frame-proj\\merging\\gestion intelligente d\u0027un centre m\u00E9dical vers abdo pure\\gestion intelligente d\u0027un centre m\u00E9dical\\medcin\\login_medcin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\medcin\\login_medcin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|d:\\git repo\\frame-proj\\merging\\gestion intelligente d\u0027un centre m\u00E9dical vers abdo pure\\gestion intelligente d\u0027un centre m\u00E9dical\\medcin\\mise_en_forme_medcin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\medcin\\mise_en_forme_medcin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|d:\\git repo\\frame-proj\\merging\\gestion intelligente d\u0027un centre m\u00E9dical vers abdo pure\\gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\login_secretaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\login_secretaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|d:\\git repo\\frame-proj\\merging\\gestion intelligente d\u0027un centre m\u00E9dical vers abdo pure\\gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\paiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\paiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|d:\\git repo\\frame-proj\\merging\\gestion intelligente d\u0027un centre m\u00E9dical vers abdo pure\\gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\login_secretaire.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\login_secretaire.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|d:\\git repo\\frame-proj\\merging\\gestion intelligente d\u0027un centre m\u00E9dical vers abdo pure\\gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\recu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\recu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|d:\\git repo\\frame-proj\\merging\\gestion intelligente d\u0027un centre m\u00E9dical vers abdo pure\\gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\gestion_rendez_vous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\secretaire\\gestion_rendez_vous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|d:\\git repo\\frame-proj\\merging\\gestion intelligente d\u0027un centre m\u00E9dical vers abdo pure\\gestion intelligente d\u0027un centre m\u00E9dical\\autre\\load_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\autre\\load_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|d:\\git repo\\frame-proj\\merging\\gestion intelligente d\u0027un centre m\u00E9dical vers abdo pure\\gestion intelligente d\u0027un centre m\u00E9dical\\autre\\load_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E65802F4-B362-4CC0-8573-DCD5D97EE7A4}|Gestion Intelligente d\u0027un Centre M\u00E9dical\\Gestion Intelligente d\u0027un Centre M\u00E9dical.csproj|solutionrelative:gestion intelligente d\u0027un centre m\u00E9dical\\autre\\load_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +122,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,33 +130,73 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login_Medcin.cs",
-              "DocumentMoniker": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\medcin\\Login_Medcin.cs",
-              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\medcin\\Login_Medcin.cs",
-              "ToolTip": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\medcin\\Login_Medcin.cs",
-              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\medcin\\Login_Medcin.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwCYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T15:52:46.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Login_Secretaire.cs",
-              "DocumentMoniker": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\Login_Secretaire.cs",
-              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\Login_Secretaire.cs",
-              "ToolTip": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\Login_Secretaire.cs",
-              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\Login_Secretaire.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Title": "Consulter_Dossier_Patient.cs",
+              "DocumentMoniker": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\patient\\Consulter_Dossier_Patient.cs",
+              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\patient\\Consulter_Dossier_Patient.cs",
+              "ToolTip": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\patient\\Consulter_Dossier_Patient.cs",
+              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\patient\\Consulter_Dossier_Patient.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAD4v0gAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T15:52:43.352Z",
+              "WhenOpened": "2025-04-28T14:11:48.574Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Consulter_Dossier_Patient.Designer.cs",
+              "DocumentMoniker": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\patient\\Consulter_Dossier_Patient.Designer.cs",
+              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\patient\\Consulter_Dossier_Patient.Designer.cs",
+              "ToolTip": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\patient\\Consulter_Dossier_Patient.Designer.cs",
+              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\patient\\Consulter_Dossier_Patient.Designer.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAWwGAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:10:05.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Consulter_Dossier_Patient.cs [Design]",
+              "DocumentMoniker": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\patient\\Consulter_Dossier_Patient.cs",
+              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\patient\\Consulter_Dossier_Patient.cs",
+              "ToolTip": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\patient\\Consulter_Dossier_Patient.cs [Design]",
+              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\patient\\Consulter_Dossier_Patient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:09:31.374Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "gestion_dossier_adminstratif.cs [Design]",
+              "DocumentMoniker": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\gestion_dossier_adminstratif.cs",
+              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\gestion_dossier_adminstratif.cs",
+              "ToolTip": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\gestion_dossier_adminstratif.cs [Design]",
+              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\gestion_dossier_adminstratif.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:15:03.784Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gerer_rendez-vous.cs [Design]",
+              "DocumentMoniker": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\medcin\\Gerer_rendez-vous.cs",
+              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\medcin\\Gerer_rendez-vous.cs",
+              "ToolTip": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\medcin\\Gerer_rendez-vous.cs [Design]",
+              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\medcin\\Gerer_rendez-vous.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:13:57.919Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Login_Medcin.cs [Design]",
               "DocumentMoniker": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\medcin\\Login_Medcin.cs",
               "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\medcin\\Login_Medcin.cs",
@@ -72,7 +208,69 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "gestion_dossier_adminstratif.cs",
+              "DocumentMoniker": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\gestion_dossier_adminstratif.cs",
+              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\gestion_dossier_adminstratif.cs",
+              "ToolTip": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\gestion_dossier_adminstratif.cs",
+              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\gestion_dossier_adminstratif.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:06:04.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "acceuil secretaire.cs [Design]",
+              "DocumentMoniker": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\acceuil secretaire.cs",
+              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\acceuil secretaire.cs",
+              "ToolTip": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\acceuil secretaire.cs [Design]",
+              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\acceuil secretaire.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:15:04.576Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "crudAdminModif.cs [Design]",
+              "DocumentMoniker": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\adminstrateur\\crudAdminModif.cs",
+              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\adminstrateur\\crudAdminModif.cs",
+              "ToolTip": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\adminstrateur\\crudAdminModif.cs [Design]",
+              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\adminstrateur\\crudAdminModif.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:05:58.959Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Gestion de disponibilit\u00E9.cs [Design]",
+              "DocumentMoniker": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\adminstrateur\\Gestion de disponibilit\u00E9.cs",
+              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\adminstrateur\\Gestion de disponibilit\u00E9.cs",
+              "ToolTip": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\adminstrateur\\Gestion de disponibilit\u00E9.cs [Design]",
+              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\adminstrateur\\Gestion de disponibilit\u00E9.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:13:31.986Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SIGN UP secretaire.cs",
+              "DocumentMoniker": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\SIGN UP secretaire.cs",
+              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\SIGN UP secretaire.cs",
+              "ToolTip": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\SIGN UP secretaire.cs",
+              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\SIGN UP secretaire.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:45:52.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Login_Secretaire.cs [Design]",
               "DocumentMoniker": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\Login_Secretaire.cs",
               "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\Login_Secretaire.cs",
@@ -83,8 +281,204 @@
               "EditorCaption": " [Design]"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SIGN UP secretaire.cs [Design]",
+              "DocumentMoniker": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\SIGN UP secretaire.cs",
+              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\SIGN UP secretaire.cs",
+              "ToolTip": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\SIGN UP secretaire.cs [Design]",
+              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\SIGN UP secretaire.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:15:06.214Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SIGN UP medcin.cs [Design]",
+              "DocumentMoniker": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\medcin\\SIGN UP medcin.cs",
+              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\medcin\\SIGN UP medcin.cs",
+              "ToolTip": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\medcin\\SIGN UP medcin.cs [Design]",
+              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\medcin\\SIGN UP medcin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:02:11.889Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login_Secretaire.cs",
+              "DocumentMoniker": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\Login_Secretaire.cs",
+              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\Login_Secretaire.cs",
+              "ToolTip": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\Login_Secretaire.cs",
+              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\Login_Secretaire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T15:52:43.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SIGN UP medcin.cs",
+              "DocumentMoniker": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\medcin\\SIGN UP medcin.cs",
+              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\medcin\\SIGN UP medcin.cs",
+              "ToolTip": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\medcin\\SIGN UP medcin.cs",
+              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\medcin\\SIGN UP medcin.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T14:02:13.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\Program.cs",
+              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\Program.cs",
+              "ToolTip": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\Program.cs",
+              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:00:16.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "mise_en_forme_secretaire.Designer.cs",
+              "DocumentMoniker": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\mise_en_forme_secretaire.Designer.cs",
+              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\mise_en_forme_secretaire.Designer.cs",
+              "ToolTip": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\mise_en_forme_secretaire.Designer.cs",
+              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\mise_en_forme_secretaire.Designer.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:53:50.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "mise_en_forme_secretaire.cs [Design]",
+              "DocumentMoniker": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\mise_en_forme_secretaire.cs",
+              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\mise_en_forme_secretaire.cs",
+              "ToolTip": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\mise_en_forme_secretaire.cs [Design]",
+              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\mise_en_forme_secretaire.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:53:48.801Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "mise_en_forme_secretaire.cs",
+              "DocumentMoniker": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\mise_en_forme_secretaire.cs",
+              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\mise_en_forme_secretaire.cs",
+              "ToolTip": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\mise_en_forme_secretaire.cs",
+              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\mise_en_forme_secretaire.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwD8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:57:28.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login_Medcin.cs",
+              "DocumentMoniker": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\medcin\\Login_Medcin.cs",
+              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\medcin\\Login_Medcin.cs",
+              "ToolTip": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\medcin\\Login_Medcin.cs",
+              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\medcin\\Login_Medcin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T15:52:46.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "mise_en_forme_medcin.cs [Design]",
+              "DocumentMoniker": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\medcin\\mise_en_forme_medcin.cs",
+              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\medcin\\mise_en_forme_medcin.cs",
+              "ToolTip": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\medcin\\mise_en_forme_medcin.cs [Design]",
+              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\medcin\\mise_en_forme_medcin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:53:24.957Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "paiement.cs [Design]",
+              "DocumentMoniker": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\paiement.cs",
+              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\paiement.cs",
+              "ToolTip": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\paiement.cs [Design]",
+              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\paiement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:14:56.837Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Login_Secretaire.Designer.cs",
+              "DocumentMoniker": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\Login_Secretaire.Designer.cs",
+              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\Login_Secretaire.Designer.cs",
+              "ToolTip": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\Login_Secretaire.Designer.cs",
+              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\Login_Secretaire.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:49:37.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "recu.cs [Design]",
+              "DocumentMoniker": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\recu.cs",
+              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\recu.cs",
+              "ToolTip": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\recu.cs [Design]",
+              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\recu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:14:57.835Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "gestion_rendez_vous.cs [Design]",
+              "DocumentMoniker": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\gestion_rendez_vous.cs",
+              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\gestion_rendez_vous.cs",
+              "ToolTip": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\gestion_rendez_vous.cs [Design]",
+              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\secretaire\\gestion_rendez_vous.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:15:02.775Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "load_page.cs",
+              "DocumentMoniker": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\autre\\load_page.cs",
+              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\autre\\load_page.cs",
+              "ToolTip": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\autre\\load_page.cs",
+              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\autre\\load_page.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:15:42.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "load_page.cs [Design]",
+              "DocumentMoniker": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\autre\\load_page.cs",
+              "RelativeDocumentMoniker": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\autre\\load_page.cs",
+              "ToolTip": "D:\\git repo\\frame-proj\\merging\\Gestion Intelligente d\u0027un Centre M\u00E9dical vers abdo pure\\Gestion Intelligente d\u0027un Centre M\u00E9dical\\autre\\load_page.cs [Design]",
+              "RelativeToolTip": "Gestion Intelligente d\u0027un Centre M\u00E9dical\\autre\\load_page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:15:39.4Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

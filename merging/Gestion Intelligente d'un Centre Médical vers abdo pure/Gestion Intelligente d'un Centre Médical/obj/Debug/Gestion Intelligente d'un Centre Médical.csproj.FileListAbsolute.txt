@@ -92,3 +92,25 @@ D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers ab
 D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion .2791C7B4.Up2Date
 D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion Intelligente d'un Centre Médical.exe
 D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion Intelligente d'un Centre Médical.pdb
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Interop.Acrobat.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Microsoft.Bcl.Memory.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\System.Text.Encodings.Web.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\System.Text.Json.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Twilio.dll
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Microsoft.Bcl.Memory.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\System.Text.Encodings.Web.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\System.Text.Json.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\bin\Debug\Twilio.xml
+D:\git repo\frame-proj\merging\Gestion Intelligente d'un Centre Médical vers abdo pure\Gestion Intelligente d'un Centre Médical\obj\Debug\Gestion_Intelligente_d_un_Centre_Médical.mise_en_forme_secretaire.resources

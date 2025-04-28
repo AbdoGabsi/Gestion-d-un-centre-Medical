@@ -26,7 +26,7 @@ namespace Gestion_Intelligente_d_un_Centre_Médical
 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new load_page());
+            Application.Run(new Login_Secretaire());
         }
     }
     public class update

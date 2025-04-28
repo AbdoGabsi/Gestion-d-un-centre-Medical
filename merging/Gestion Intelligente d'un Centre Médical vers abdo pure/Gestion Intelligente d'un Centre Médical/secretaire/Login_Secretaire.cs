@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Data.OleDb;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -15,6 +16,46 @@ namespace Gestion_Intelligente_d_un_Centre_Médical.secretaire
         public Login_Secretaire()
         {
             InitializeComponent();
+        }
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            int id_sec;
+            if (textBox1.Text.Length == 0 || textBox2.Text.Length == 0 || (textBox1.Text.Length == 0 && textBox2.Text.Length == 0))
+            {
+                MessageBox.Show("S'il vous plait remplir tout le champ  ", "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+            }
+            else
+            {
+                DataBase.connection.Open();
+                String req = "select ID_secretaire,mot_de_passe from  secretaire  " +
+                    "where login ='" + textBox1.Text + "'";
+                OleDbCommand cmd = new OleDbCommand(req, DataBase.connection);
+                OleDbDataReader rd = cmd.ExecuteReader();
+                if (rd.Read())
+                {
+                    if (rd.GetString(1) == textBox2.Text)
+                    {
+                        id_sec = rd.GetInt32(0);
+                        this.Hide();
+                        mise_en_forme_secretaire form = new mise_en_forme_secretaire(id_sec, textBox1.Text);
+                        form.Show();
+                    }
+                    else
+                        MessageBox.Show("mot de passe incorrect", "Erreur", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                }
+
+                else
+                    MessageBox.Show("Pas d'inscription existe avec  " + textBox1.Text, "Erreur", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                DataBase.connection.Close();
+            }
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            SIGN_UP_secretaire form = new SIGN_UP_secretaire();
+            form.Show();
         }
 
 
